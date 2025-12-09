@@ -1,4 +1,4 @@
-name: Currency Converter
+name: currencyconverter
 description: A currency converter with calculator
 publish_to: 'none'
 version: 1.0.0+1
