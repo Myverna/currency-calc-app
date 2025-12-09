@@ -1,0 +1,17 @@
+name: currency_calc_app
+description: A currency converter with calculator
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: '>=3.0.0'  # ✅ Compatible with Android 12
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.0
+  cupertino_icons: ^1.0.2
+
+flutter:
+  uses-material-design: true  # ✅ Android Material Design
