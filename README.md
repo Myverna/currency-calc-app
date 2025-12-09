@@ -16,7 +16,7 @@ Android Studio / VS Code
 iOS Simulator (for Mac) or Android Emulator
 
 Installation
-git clone https://github.com/YOUR_USERNAME/currency-calc-app.git
+git clone https://github.com/vernagenoso41@gmail.com/currency-calc-app.git
 cd currency-calc-app
 flutter pub get
 flutter run
